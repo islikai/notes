@@ -58,9 +58,7 @@ Redux 是 JavaScript 状态容器，提供可预测化的状态管理。
     > Redux是对新旧state直接用浅比较（==）来进行比较的，如果直接修改state对象，内存地址是没有变化的，因此Redux将不会响应我们的更新；
     > 可以提高性能，避免深层的对象递归比较；
 
-  
-
-<img src="http://cdn.u1.huluxia.com/g4/M01/0D/04/rBAAdl-nZr-ANtXWAAGn35vtHrc678.png" style="zoom:50%;" />
+  <img src = 'https://icon.qiantucdn.com/20201108/63ea3c3b4436d8e308deac18b62656302'     /> 
 
 **4) 使用**
 
